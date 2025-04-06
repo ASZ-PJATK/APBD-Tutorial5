@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=175111fd_002Defbc_002D4e01_002Dad59_002Deca07934c62d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AdvancedEmpDeptTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B64671-82A6-4788-A413-5BD9E8891247::net9.0::APBD_Tutorial5.Tests.AdvancedEmpDeptTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd6db983_002D9902_002D490c_002Dbaf5_002Dc4c16447a686/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AdvancedEmpDeptTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B64671-82A6-4788-A413-5BD9E8891247::net9.0::APBD_Tutorial5.Tests.AdvancedEmpDeptTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0e005ad_002D3ad2_002D4a83_002Dafd0_002Df1da55691d8f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnAllSalesmen" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B64671-82A6-4788-A413-5BD9E8891247::net9.0::APBD_Tutorial5.Tests.EmpDeptSalgradeTests.ShouldReturnAllSalesmen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B64671-82A6-4788-A413-5BD9E8891247::net9.0::APBD_Tutorial5.Tests.AdvancedEmpDeptTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::76B64671-82A6-4788-A413-5BD9E8891247::net9.0::APBD_Tutorial5.Tests.EmpDeptSalgradeTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
